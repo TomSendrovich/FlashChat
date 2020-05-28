@@ -71,7 +71,7 @@ captures/
 .externalNativeBuild
 
 # Google Services (e.g. APIs or Firebase)
-# google-services.json
+google-services.json
 
 # Freeline
 freeline.py
@@ -98,5 +98,3 @@ lint/tmp/
 ### Android Patch ###
 gen-external-apklibs
 output.json
-google-services.json
-
